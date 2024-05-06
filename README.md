@@ -34,21 +34,26 @@
 ## OUTPUT :
 
 ## Support Removal Process
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
+![WhatsApp Image 2024-05-06 at 21 37 06_33ceeca4](https://github.com/krithigau/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150319401/59be801c-f231-4fed-83a9-bbb2188d93bb)
+
+![WhatsApp Image 2024-05-06 at 21 37 14_cd978dcc](https://github.com/krithigau/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150319401/b789d51e-8389-409c-a036-36a576141afa)
 
 ## UV Curing of 3D printed part
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/b8aaa899-f319-4192-9dd7-126717137bfd)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/5fa69c3d-4e61-4226-b2ad-b0765c0cd498)
+![WhatsApp Image 2024-05-06 at 21 37 51_5377ec43](https://github.com/krithigau/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150319401/89b713e3-77b1-4f57-ab98-e37e8ac5043c)
+
+
+![WhatsApp Image 2024-05-06 at 21 38 05_ad594b80](https://github.com/krithigau/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150319401/3a6217b7-0d5b-4a54-94c8-83cdf5781a98)
 
 ## Heat Treatment of 3D printed part
-![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
-![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
+![WhatsApp Image 2024-05-06 at 21 38 26_82a47822](https://github.com/krithigau/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150319401/59a643af-a1a6-42fb-b51b-ae1301b80cf2)
+
+![WhatsApp Image 2024-05-06 at 21 38 37_d2ca6231](https://github.com/krithigau/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150319401/2026cd7c-6444-450b-acb9-77110dbdb4bd)
 
 ## Output:
+![image](https://github.com/krithigau/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150319401/70d455be-a9ff-4822-bfee-ab51607d5e5c)
 
-### Name:
-### Register Number:
+### Name: U KRITHIGA
+### Register Number:212223240076
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
